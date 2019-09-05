@@ -1,0 +1,1 @@
+var s;!function(s){s.Static="STATIC",s.Rehydrate="REHYDRATE"}(s||(s={}));class t{constructor(){this.ssrMode=s.Rehydrate,this.fallbackCssClass=""}get ssrCssClass(){return this.ssrMode===s.Static?"":this.ssrMode===s.Rehydrate?"nice-anim":void 0}static getInstance(){return t.instance||(t.instance=new t),t.instance}}t.instance=null;export{t as N,s as S};

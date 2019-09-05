@@ -1,0 +1,1 @@
+System.register(["./p-d3bc8692.system.js"],function(){"use strict";var t,e;return{setters:[function(n){t=n.p;e=n.b}],execute:function(){t().then(function(t){return e([["p-tkdtmcfg.system",[[4,"nice-anim",{direction:[1],delay:[2],duration:[2],animationDistance:[1,"animation-distance"],triggerDistance:[1,"trigger-distance"]}]]]],{resourcesUrl:t})})}}});
